@@ -1,0 +1,11 @@
+# Required Libraries
+node_modules/
+
+# Generated Elements
+**/downloads
+**/reports
+**/screenshots
+**/videos
+
+# Cypress Secrets
+**/cypress.env.json

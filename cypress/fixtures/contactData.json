@@ -1,0 +1,28 @@
+{
+  "postData": {
+      "firstName": "Andres",
+      "lastName": "Fernandez",
+      "email": "afernandez@mail.com",
+      "location": {
+          "city": "SJ",
+          "country": "CR"
+      },
+      "employer": {
+          "jobTitle": "QA Automation",
+          "company": "Company"
+      }
+  },
+  "putData": {
+      "firstName": "Pedro",
+      "lastName": "Perez",
+      "email": "pperez@mail.com",
+      "location": {
+          "city": "Heredia",
+          "country": "CR"
+      },
+      "employer": {
+          "jobTitle": "QA",
+          "company": "Company"
+      }
+  }
+}
